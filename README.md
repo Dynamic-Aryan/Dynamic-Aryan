@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Pachchigar</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/mFAqvhuSxrgbkqJdRI/giphy.gif?cid=790b76117dd5xrt2emc7earsnfgopmt61xuawb4chhstdu41&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Preview" width="200" />
+  <img src="https://media.giphy.com/media/mFAqvhuSxrgbkqJdRI/giphy.gif?cid=790b76117dd5xrt2emc7earsnfgopmt61xuawb4chhstdu41&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Preview" height="200" />
 </p>
 <h3 align="center">I'm a Web Developer and currently working with MERN technology.</h3>
 
@@ -42,18 +42,20 @@
 <br>
 
 
-<h3 align="center">Hi 😪</h3>
+<h3 align="center">😪</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=790b76116kd185nre0g7wliautuzj4frhp7yt8rfko17ew9x&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Preview" width="450" />
 </p>
 <hr>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dynamic-aryan&show_icons=true&locale=en&layout=compact" alt="dynamic-aryan" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dynamic-aryan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="190" alt="dynamic-aryan"  /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dynamic-aryan&show_icons=true&locale=en" alt="dynamic-aryan" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=dynamic-aryan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="dynamic-aryan"  /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dynamic-aryan&" alt="dynamic-aryan" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dynamic-aryan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="dynamic-aryan"  />
+</p>
 
 <hr>
 <br>
