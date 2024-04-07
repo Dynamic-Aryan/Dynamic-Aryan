@@ -50,12 +50,12 @@
 <br>
 
 <div align="center">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dynamic-aryan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="190" alt="dynamic-aryan"  /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dynamic-aryan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="440" alt="dynamic-aryan"  /></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=dynamic-aryan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="dynamic-aryan"  /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=dynamic-aryan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" width="470" alt="dynamic-aryan"  /></p>
 
 <p >
-  <img src="https://streak-stats.demolab.com?user=dynamic-aryan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="dynamic-aryan"  />
+  <img src="https://streak-stats.demolab.com?user=dynamic-aryan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="500" alt="dynamic-aryan"  />
 </p>
 </div>
 
