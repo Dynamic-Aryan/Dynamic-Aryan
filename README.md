@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/mFAqvhuSxrgbkqJdRI/giphy.gif?cid=790b76117dd5xrt2emc7earsnfgopmt61xuawb4chhstdu41&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Preview" width="200" />
 </p>
-<h3 align="center">I'm a passionate frontend developer and currently working with MERN technology.</h3>
+<h3 align="center">I'm a Web Developer and currently working with MERN technology.</h3>
 
 <hr >
 
