@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **some developers in front-end and bakend**
 
-- 👨‍💻 All of my projects are available at [https://aryanpachchigar1.netlify.app/](https://aryanpachchigar1.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://aryanpachchigar1.netlify.app/)
 
 - 📫 How to reach me **aryanpachchigar91@gmail.com**
 
