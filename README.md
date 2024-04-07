@@ -6,7 +6,7 @@
 
 <hr >
 
-- 🔭 I’m currently working on **Movie Ticket Booking Site** project 
+- 🔭 I’m currently working on making ** MERN Stack** projects 
 
 - 🌱 I’m currently learning **Backend Development nowadays**
 
