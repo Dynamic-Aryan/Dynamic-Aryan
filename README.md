@@ -16,9 +16,9 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://aryanpachchigar1.netlify.app/)
 
-- 📫 How to reach me **aryanpachchigar91@gmail.com**
+- 📫 How to reach me [My Email](aryanpachchigar91@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UQ0Dmvb-W2EFLaUnIb8Grxrq_Meg_i0a/view?usp=sharing](https://drive.google.com/file/d/1UQ0Dmvb-W2EFLaUnIb8Grxrq_Meg_i0a/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1UQ0Dmvb-W2EFLaUnIb8Grxrq_Meg_i0a/view?usp=sharing)
 
 - ⚡ Fun fact **My aunties call me handsome and cute 😂🤣**
 
