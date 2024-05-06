@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aryan Pachchigar</h1>
+### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Aryan Pachchigar+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Aryan Pachchigar Welcome to my Profile! animated typed out">
 <p align="center">
   <img src="https://media.giphy.com/media/mFAqvhuSxrgbkqJdRI/giphy.gif?cid=790b76117dd5xrt2emc7earsnfgopmt61xuawb4chhstdu41&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Preview" height="200" />
 </p>
