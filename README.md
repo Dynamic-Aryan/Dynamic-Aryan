@@ -1,9 +1,24 @@
 
-  <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=33&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Aryan+Pachchigar+Check+out+my+GitHub!!" align="middle" alt="Hey, I'm Aryan Pachchigar Welcome to my Profile! animated typed out">
+<h1 align="center">
+  <img
+    src="https://emojis.slackmojis.com/emojis/images/1643514732/7373/hand_wave.gif?1643514732"
+    width="30"
+  /> Hey! Welcome Nice to see you.
+</h1>
+<h1 align="center" style="color:purple;">I'm Aryan Pachchigar <img
+    src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"
+    width="30"
+  /></h1>
+
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20a%20Web%20%20Wizard;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=7FFFD4&vCenter=true&pause=1000&size=22" />
+</p>
+
+<br/>
 <p align="center">
   <img src="https://media.giphy.com/media/mFAqvhuSxrgbkqJdRI/giphy.gif?cid=790b76117dd5xrt2emc7earsnfgopmt61xuawb4chhstdu41&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Preview" height="200" />
 </p>
-<h4 align="center">I'm a Web Developer and currently working with MERN technology.</h4>
+
 
 
 <hr >
