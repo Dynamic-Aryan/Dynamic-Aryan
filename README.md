@@ -25,11 +25,7 @@
 
 - 🔭 I’m currently working on making **MERN Stack** projects 
 
-- 🌱 I’m currently learning **Backend Development nowadays**
-
-- 👯 I’m looking to collaborate on **some Open Source work**
-
-- 🤝 I’m looking for help with **some developers in front-end and bakend**
+- 🤝 I’m looking for help with **some developers in front-end and back-end**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://aryanpachchigar.netlify.app/)
 
