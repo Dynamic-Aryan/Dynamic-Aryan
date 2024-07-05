@@ -25,15 +25,11 @@
 
 - 🔭 I’m currently working on making **MERN Stack** projects 
 
-- 🤝 I’m looking for help with **some developers in front-end and back-end**
-
 - 👨‍💻 All of my projects are available at [My Portfolio](https://aryanpachchigar.netlify.app/)
 
 - 📫 How to reach me [My Email](aryanpachchigar91@gmail.com)
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1UQ0Dmvb-W2EFLaUnIb8Grxrq_Meg_i0a/view?usp=sharing)
-
-- ⚡ Fun fact **My aunties call me handsome and cute 😂🤣**
+- ⚡ Fun fact **There's no fact about me that isn't fun; everything I do is fun!😂🤣**
 
 <hr>  
 <br>
