@@ -29,7 +29,7 @@
 
 - 📫 How to reach me [My Email](aryanpachchigar91@gmail.com)
 
-- ⚡ Fun fact **There's no fact about me that isn't fun; everything I do is fun!😂🤣**
+- ⚡ Fun fact : **There's no fact about me that isn't fun; everything I do is fun!😂🤣**
 
 <hr>  
 <br>
