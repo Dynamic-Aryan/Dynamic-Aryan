@@ -16,7 +16,7 @@
 
 <br/>
 <p align="center">
-  <img src="https://media.giphy.com/media/mFAqvhuSxrgbkqJdRI/giphy.gif?cid=790b76117dd5xrt2emc7earsnfgopmt61xuawb4chhstdu41&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Preview" height="200" />
+  <img src="https://media1.tenor.com/m/o6LprLqY5jIAAAAC/death-note-nom.gif" alt="Preview" />
 </p>
 <br/>
 
