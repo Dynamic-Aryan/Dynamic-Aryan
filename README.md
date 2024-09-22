@@ -58,7 +58,7 @@
 
 <h3 align="center">😪</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=790b76116kd185nre0g7wliautuzj4frhp7yt8rfko17ew9x&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Preview" width="450" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExam8zZnZ3OGtsbnZxNmM3M3VheW9neHFkMGo2dXB0NmV1MzNmOTZjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WBLKsv9020tNgHLck8/giphy.webp" alt="Preview" width="450" />
 </p>
 <hr>
 <br>
