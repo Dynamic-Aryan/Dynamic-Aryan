@@ -78,5 +78,5 @@
 
 <h3 align="center">Thank You</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/mpjwypbzcxkeujtMhx/giphy.gif?cid=790b76110n5xulz5xe9dghmjnxyujrxv122mndge55hqn4d3&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Preview" width="300" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHozZGk4aW5oODJpYTV5MXBlcDE5cDVkMGY2MDRucDhhNTNxN2ZzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/815gaeNJZEijZDUkZt/giphy.webp" alt="Preview" width="300" />
 </p>
