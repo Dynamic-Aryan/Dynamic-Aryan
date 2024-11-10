@@ -16,7 +16,7 @@
 
 <br/>
 <p align="center">
-  <img src="https://media1.tenor.com/m/o6LprLqY5jIAAAAC/death-note-nom.gif" alt="Preview" />
+  <img src="https://media.giphy.com/media/11J027GnyjrcJi/giphy.gif?cid=790b761144mco7g0de6210n8viht03a2roysng6srz2y3b4u&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Preview" />
 </p>
 <br/>
 
@@ -38,8 +38,10 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dynamic-aryan&theme=matrix" alt="dynamic-aryan" /></a></p>
 <br>
 <p align="center">
-  <img src="https://camo.githubusercontent.com/0f4fc31ea2d9b0e3e7b72db47460d7fdc4880ddba81c891b1cf11013eb71f07f/68747470733a2f2f692e696d6775722e636f6d2f547052445a35322e676966" alt="Preview" width="300" height="250"/>
+  <img src="https://media.giphy.com/media/UksVWFHX6UJby/giphy.gif?cid=ecf05e47so5mo72b042acyx6jj8mfw91bsxugjri3hiholni&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Preview" width="300" height="250"/>
 </p>
+
+
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -78,5 +80,5 @@
 
 <h3 align="center">Thank You</h3>
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHozZGk4aW5oODJpYTV5MXBlcDE5cDVkMGY2MDRucDhhNTNxN2ZzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/815gaeNJZEijZDUkZt/giphy.webp" alt="Preview" width="300" />
+  <img src="https://media.giphy.com/media/xw40lB5BXuPGE/giphy.gif?cid=ecf05e47in9y94zkjwie3x8zsfp01gygjp7vsfvpb6xfej4s&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Preview" width="300" />
 </p>
