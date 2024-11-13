@@ -11,7 +11,7 @@
   /></h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20a%20Web%20%20Wizard;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=7FFFD4&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20a%30CODE%30%20Wizard;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=7FFFD4&vCenter=true&pause=1000&size=22" />
 </p>
 
 <br/>
