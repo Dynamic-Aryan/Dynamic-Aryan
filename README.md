@@ -25,7 +25,7 @@
 
 - 🔭 I’m currently working on making **MERN Stack** projects 
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://aryanpachchigar.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://aryanpachchigarorg.netlify.app/)
 
 - 📫 How to reach me [My Email](aryanpachchigar91@gmail.com)
 
