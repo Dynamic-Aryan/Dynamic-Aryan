@@ -11,14 +11,10 @@
   /></h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20a%20CODE%20%20Wizard;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=7FFFD4&vCenter=true&pause=1000&size=22" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExam8zZnZ3OGtsbnZxNmM3M3VheW9neHFkMGo2dXB0NmV1MzNmOTZjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WBLKsv9020tNgHLck8/giphy.webp" alt="Preview" width="500" height="400" />
 </p>
 
-<br/>
-<p align="center">
-  <img src="https://media.giphy.com/media/11J027GnyjrcJi/giphy.gif?cid=790b761144mco7g0de6210n8viht03a2roysng6srz2y3b4u&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Preview" />
-</p>
-<br/>
+
 
 
 <hr >
@@ -59,13 +55,11 @@
 
 
 <h3 align="center">😪</h3>
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExam8zZnZ3OGtsbnZxNmM3M3VheW9neHFkMGo2dXB0NmV1MzNmOTZjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WBLKsv9020tNgHLck8/giphy.webp" alt="Preview" width="450" />
-</p>
+
 <hr>
 <br>
 
-<div align="center">
+<div align="center ">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dynamic-Aryan&theme=merko&show_icons=true&hide_border=false&layout=compact" width="470" alt="dynamic-aryan"  /></p>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Dynamic-Aryan&theme=merko&show_icons=true&hide_border=false&count_private=true" width="470" alt="dynamic-aryan"  /></p>
