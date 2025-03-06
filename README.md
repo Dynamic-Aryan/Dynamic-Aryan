@@ -33,13 +33,12 @@
 ---
 
 ## 🚀 Featured Projects:
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [FLAIR – EdTech Platform](https://flair-fe.vercel.app/) | Skill-based course platform with roles like User, Admin & Superadmin. | React, Node.js, Express, MongoDB, TailwindCSS |
-| [Workwave – Job Portal](https://workwave-job-application-egqe.vercel.app/) | Connects recruiters & candidates with premium memberships and Stripe payments. | Next.js, MongoDB, Clerk, TailwindCSS, Stripe |
-| [Medical Certificate Approver](https://github.com/Dynamic-Aryan/MedicalCertificateGenerator) | Automates medical leave approvals with doctor sign-off. | React.js, Node.js |
 
----
+| ⭐ Project | 🚀 Description | 🛠️ Tech Stack | 🔗 Links |
+|-----------|----------------|---------------|----------|
+| **FLAIR – EdTech Platform** | Skill-based course platform with roles like **User**, **Admin**, and **Superadmin**. Integrated dummy payments for seamless transactions. | React.js · Node.js · Express.js · MongoDB · TailwindCSS | [🔗 Live](https://flair-fe.vercel.app/) <br> [💻 Code](https://github.com/Dynamic-Aryan/Flair-FE) |
+| **Workwave – Job Portal** | A platform connecting recruiters & candidates with premium memberships, daily updates, and **Stripe** payments. | Next.js · MongoDB · Clerk · TailwindCSS · Stripe | [🔗 Live](https://workwave-job-application-egqe.vercel.app/) <br> [💻 Code](https://github.com/Dynamic-Aryan/Workwave-Job-Application) |
+| **MEDIDOCS Medical appointment and Medical Certificate** | Automates medical leave approvals with doctor verification and instant certificate generation. | React.js · Node.js | [💻 Code](https://github.com/Dynamic-Aryan/medidocs_backend) |
 
 ## 🏅 Achievements:
 - 🥇 Top 10 - **Campus Code Clash**.
