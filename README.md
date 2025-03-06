@@ -13,6 +13,9 @@
   🚀 Full Stack Developer turning ideas into reality through clean code and innovative solutions. <br/>
   Passionate about learning, building, and growing every single day.
 </p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF66CC&center=true&vCenter=true&width=435&lines=Frontend+Developer;Backend+Developer;Fullstack+Enthusiast;Anime+Lover;Always+Learning+%F0%9F%8C%8C" alt="Typing SVG" />
+</div>
 
 ---
 
