@@ -64,9 +64,7 @@
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Dynamic-Aryan&theme=merko&show_icons=true&hide_border=false&count_private=true" width="470" alt="dynamic-aryan"  /></p>
 
-<p >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dynamic-Aryan&theme=merko&hide_border=false" width="470" alt="dynamic-aryan"  />
-</p>
+
 </div>
 
 <hr>
