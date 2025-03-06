@@ -9,10 +9,12 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="200"/>
 </div>
 
-<p align="center">
+<b>
+  <p align="center">
   🚀 Full Stack Developer turning ideas into reality through clean code and innovative solutions. <br/>
   Passionate about learning, building, and growing every single day.
 </p>
+</b>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF66CC&center=true&vCenter=true&width=435&lines=Frontend+Developer;Backend+Developer;Fullstack+Enthusiast;Anime+Lover;Always+Learning+%F0%9F%8C%8C" alt="Typing SVG" />
 </div>
@@ -25,6 +27,16 @@
 - 🏆 Competitive programmer active on **Leetcode**, **Codeforces**, and **CodeChef**.
 - 🎯 2025 Goals: Build impactful projects, contribute to open source, and land an SDE role.
 - 🤝 Open to collaborations, internships, and learning opportunities.
+
+---
+
+## 💼 Experience:
+
+| 🏢 Role | 🗓️ Duration | 📝 Description |
+|---------|-------------|----------------|
+| **MERN Stack Intern – Web-Stack Academy** | Aug 2023 – Oct 2024 | Built a Food Delivery App with real-time order tracking, user authentication, and practiced SDLC principles. |
+| **Web Developer – Prajwalan’24 Tech Fest** | Feb 2024 – Mar 2024 | Served as Co-Convenor, led the tech team, and added features like countdown timers using React and TailwindCSS. |
+
 
 ---
 
