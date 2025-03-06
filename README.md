@@ -16,7 +16,7 @@
 </p>
 </b>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF66CC&center=true&vCenter=true&width=435&lines=Frontend+Developer;Backend+Developer;Fullstack+Enthusiast;Anime+Lover;Always+Learning+%F0%9F%8C%8C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Frontend+Developer;Backend+Developer;Fullstack+Enthusiast;Anime+Lover;Always+Learning+%F0%9F%8C%8C" alt="Typing SVG" />
 </div>
 
 ---
