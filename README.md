@@ -53,7 +53,7 @@
 |-----------|----------------|---------------|----------|
 | **FLAIR – EdTech Platform** | Skill-based course platform with roles like **User**, **Admin**, and **Superadmin**. Integrated dummy payments for seamless transactions. | React.js · Node.js · Express.js · MongoDB · TailwindCSS | [🔗 Live](https://flairorg.vercel.app/) <br> [💻 Code](https://github.com/Dynamic-Aryan/Flair-FE) |
 | **Workwave – Job Portal** | A platform connecting recruiters & candidates with premium memberships, daily updates, and **Stripe** payments. | Next.js · MongoDB · Clerk · TailwindCSS · Stripe | [🔗 Live](https://workwavejob.vercel.app/) <br> [💻 Code](https://github.com/Dynamic-Aryan/Workwave-Job-Application) |
-| **MEDIDOCS Medical appointment and Medical Certificate Approver** | Automates medical leave approvals with doctor verification and instant certificate generation. | React.js · Node.js | [💻 Code](NA) deployed link soon!! |
+| **MEDIDOCS Medical appointment and Medical Certificate Approver** | Automates medical leave approvals with doctor verification and instant certificate generation. | React.js · Node.js | [💻 Code](soon!!) deployed link soon!! |
 
 ## 🏅 Achievements:
 - 🥇 Top 10 - **Campus Code Clash**.
