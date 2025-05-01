@@ -34,7 +34,6 @@
 
 | 🏢 Role | 🗓️ Duration | 📝 Description |
 |---------|-------------|----------------|
-| **MERN Stack Intern – Web-Stack Academy** | Aug 2023 – Oct 2024 | Built a Food Delivery App with real-time order tracking, user authentication, and practiced SDLC principles. |
 | **Web Developer – Prajwalan’24 Tech Fest** | Feb 2024 – Mar 2024 | Served as Co-Convenor, led the tech team, and added features like countdown timers using React and TailwindCSS. |
 
 
