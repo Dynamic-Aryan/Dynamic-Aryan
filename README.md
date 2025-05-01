@@ -1,4 +1,4 @@
-<h1 align="center">
+![image](https://github.com/user-attachments/assets/6b7d88a6-e58f-4688-b167-cbff203e9450)<h1 align="center">
   <img
     src="https://emojis.slackmojis.com/emojis/images/1643514732/7373/hand_wave.gif?1643514732"
     width="30"
@@ -51,7 +51,7 @@
 | ⭐ Project | 🚀 Description | 🛠️ Tech Stack | 🔗 Links |
 |-----------|----------------|---------------|----------|
 | **FLAIR – EdTech Platform** | Skill-based course platform with roles like **User**, **Admin**, and **Superadmin**. Integrated dummy payments for seamless transactions. | React.js · Node.js · Express.js · MongoDB · TailwindCSS | [🔗 Live](https://flairedtech.netlify.app/) <br> [💻 Code](https://github.com/Dynamic-Aryan/Flairedtechplatform) |
-| **Workwave – Job Portal** | A platform connecting recruiters & candidates with premium memberships, daily updates, and **Stripe** payments. | Next.js · MongoDB · Clerk · TailwindCSS · Stripe | [🔗 Live](https://workwavejob.vercel.app/) <br> [💻 Code](https://github.com/Dynamic-Aryan/Workwave-Job-Application) |
+| **EmployaX – Job Portal** | A platform connecting recruiters & candidates , daily job updates. | Next.js · MongoDB  · TailwindCSS  | [🔗 Live](https://employax.vercel.app/) <br> [💻 Code](https://github.com/Dynamic-Aryan/EmployaX) |
 | **MEDIDOCS Medical appointment and Medical Certificate Approver** | soon!! | soon!!| [💻 Code](soon!!) deployed link soon!! |
 
 ## 🏅 Achievements:
@@ -59,7 +59,7 @@
 - 🎉 Participant - **SIH'23**, **HIRE Run (Prajwalan’24)**.
 - 📱 Organizer of Android Development workshops with **GDSC**.
 - 📜 Certified in **Postman API**, **Git & GitHub**, and **Google Cloud Foundations**.
-
+https://github.com/Dynamic-Aryan/EmployaX
 ---
 
 ## 🕹️ Fun Facts:
