@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6b7d88a6-e58f-4688-b167-cbff203e9450)<h1 align="center">
+<h1 align="center">
   <img
     src="https://emojis.slackmojis.com/emojis/images/1643514732/7373/hand_wave.gif?1643514732"
     width="30"
