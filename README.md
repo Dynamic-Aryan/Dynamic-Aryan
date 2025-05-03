@@ -30,14 +30,6 @@
 
 ---
 
-## 💼 Experience:
-
-| 🏢 Role | 🗓️ Duration | 📝 Description |
-|---------|-------------|----------------|
-| **Web Developer – Prajwalan’24 Tech Fest** | Feb 2024 – Mar 2024 | Served as Co-Convenor, led the tech team, and added features like countdown timers using React and TailwindCSS. |
-
-
----
 
 ## 🛠️ Tech Stack:
 <div align="center">
@@ -59,7 +51,7 @@
 - 🎉 Participant - **SIH'23**, **HIRE Run (Prajwalan’24)**.
 - 📱 Organizer of Android Development workshops with **GDSC**.
 - 📜 Certified in **Postman API**, **Git & GitHub**, and **Google Cloud Foundations**.
-https://github.com/Dynamic-Aryan/EmployaX
+
 ---
 
 ## 🕹️ Fun Facts:
