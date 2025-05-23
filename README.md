@@ -27,6 +27,7 @@
 - 🏆 Competitive programmer active on **Leetcode**, **Codeforces**, and **CodeChef**.
 - 🎯 2025 Goals: Build impactful projects, contribute to open source, and land an SDE role.
 - 🤝 Open to collaborations, internships, and learning opportunities.
+- ⭐ 🚀 Resume = [MyResume](https://drive.google.com/file/d/1qc52NGBZgjjdbAKb-1rMhXaJ94aprCW9/view?usp=sharing)
 
 ---
 
