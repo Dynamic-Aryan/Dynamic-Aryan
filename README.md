@@ -20,6 +20,9 @@
 </div>
 
 ---
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNsYTRkdGdibGRpc3N3dnpxcHp0dDNzbGJlc213YWVwMjhud255bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jkSvCVEXWlOla/giphy.gif" width="300" />
+</div>
 
 ## 🧠 About Me:
 - 💻 Computer Science undergrad at **GCOEA (2021-2025)**.
@@ -39,13 +42,6 @@
 
 ---
 
-## 🚀 Featured Projects:
-
-| ⭐ Project | 🚀 Description | 🛠️ Tech Stack | 🔗 Links |
-|-----------|----------------|---------------|----------|
-| **FLAIR – EdTech Platform** | Skill-based course platform with roles like **User**, **Admin**, and **Superadmin**. Integrated dummy payments for seamless transactions. | React.js · Node.js · Express.js · MongoDB · TailwindCSS | [🔗 Live](https://flairedtech.netlify.app/) <br> [💻 Code](https://github.com/Dynamic-Aryan/Flairedtechplatform) |
-| **EmployaX – Job Portal** | A platform connecting recruiters & candidates , daily job updates. | Next.js · MongoDB  · TailwindCSS  | [🔗 Live](https://employax.vercel.app/) <br> [💻 Code](https://github.com/Dynamic-Aryan/EmployaX) |
-| **MEDIDOCS Medical appointment and Medical Certificate Approver** | soon!! | soon!!| [💻 Code](https://github.com/Dynamic-Aryan/medidocs_frontend) deployed link soon!! |
 
 ## 🏅 Achievements:
 - 🥇 Top 10 - **Campus Code Clash**.
@@ -82,6 +78,4 @@
 
 ---
 
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNsYTRkdGdibGRpc3N3dnpxcHp0dDNzbGJlc213YWVwMjhud255bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jkSvCVEXWlOla/giphy.gif" width="300" />
-</div>
+
